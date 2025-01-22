@@ -1,15 +1,4 @@
-﻿using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using Seamailer.Contracts;
-using Seamailer.Models.Request;
-using Seamailer.Models.Response;
-using Seamailer.Settings;
-using Seamailer.Shared;
-using System.Net.Http.Headers;
-using System.Net.Http.Json;
-using System.Text.Json;
-
-namespace Seamailer.Services;
+﻿namespace Seamailer.Services;
 
 public sealed class SeaMailerClient : ISeaMailerClient
 {

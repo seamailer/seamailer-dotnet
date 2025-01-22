@@ -1,6 +1,4 @@
-﻿using Seamailer.Contracts;
-
-namespace Seamailer.Shared;
+﻿namespace Seamailer.Shared;
 
 public class Result<T> : IResult<T>
 {

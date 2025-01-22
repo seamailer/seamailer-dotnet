@@ -1,10 +1,4 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-using Seamailer.Contracts;
-using Seamailer.Services;
-using Seamailer.Settings;
-using Seamailer.Shared;
-
-namespace Seamailer.Extensions;
+﻿namespace Seamailer.Extensions;
 
 public static class IServiceCollectionExtensions
 {

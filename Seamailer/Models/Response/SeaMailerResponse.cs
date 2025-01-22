@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace Seamailer.Models.Response;
+﻿namespace Seamailer.Models.Response;
 
 public class SeaMailerResponse
 {
